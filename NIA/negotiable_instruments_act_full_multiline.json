@@ -1,0 +1,51 @@
+{
+    "Act": "Negotiable Instruments Act, 1881",
+    "Preamble": "An Act to define and amend the law relating to Promissory Notes, Bills of Exchange, and Cheques.",
+    "Sections": [
+        {
+            "SectionNumber": "1",
+            "Title": "Short title, extent, and commencement",
+            "Content": "This Act may be called the Negotiable Instruments Act, 1881. \nIt extends to the whole of India and shall come into force on the first day of March, 1882."
+        },
+        {
+            "SectionNumber": "2",
+            "Title": "Repeal of enactments",
+            "Content": "Certain prior enactments related to negotiable instruments are repealed."
+        },
+        {
+            "SectionNumber": "3",
+            "Title": "Interpretation clause",
+            "Content": "In this Act—\n'Banker' includes any person acting as a banker and any post office savings bank."
+        },
+        {
+            "SectionNumber": "4",
+            "Title": "Promissory note",
+            "Content": "A 'Promissory Note' is an instrument in writing \n(not being a bank-note or a currency-note) containing an unconditional undertaking, \nsigned by the maker, to pay a certain sum of money only to, or to the order of, a certain person, \nor to the bearer of the instrument."
+        },
+        {
+            "SectionNumber": "5",
+            "Title": "Bill of exchange",
+            "Content": "A 'Bill of Exchange' is an instrument in writing containing an unconditional order, \nsigned by the maker, directing a certain person to pay a certain sum of money \nonly to, or to the order of, a certain person or to the bearer of the instrument."
+        },
+        {
+            "SectionNumber": "6",
+            "Title": "Cheque",
+            "Content": "A 'Cheque' is a bill of exchange drawn on a specified banker \nand not expressed to be payable otherwise than on demand. \nIt includes the electronic image of a truncated cheque and a cheque in electronic form."
+        },
+        {
+            "SectionNumber": "138",
+            "Title": "Dishonour of cheque for insufficiency of funds",
+            "Content": "—Where any cheque\ndrawn by a person on an account maintained by him with a banker for payment of any amount of money\nto another person from out of that account for the discharge, in whole or in part, of any debt or other\nliability, is returned by the bank unpaid, either because of the amount of money standing to the credit of\nthat account is insufficient to honour the cheque or that it exceeds the amount arranged to be paid from\nthat account by an agreement made with that bank, such person shall be deemed to have committed an\noffence and shall, without prejudice to any other provision of this Act, be punished with imprisonment for\n4\n[a term which may be extended to two years’], or with fine which may extend to twice the amount of the\ncheque, or with both:\nProvided that nothing contained in this section shall apply unless—\n(a) thecheque has been presented to the bank within a period of six months from the date on\nwhich it is drawn or within the period of its validity, whichever is earlier;\n(b) the payee or the holder in due course of the cheque, as the case may be, makes a demand for\nthe payment of the said amount of money by giving a notice; in writing, to the drawer of the cheque,\n5\n[within thirty days] of the receipt of information by him from the bank regarding the return of the\ncheque as unpaid; and\n(c) the drawer of such cheque fails to make the payment of the said amount of money to the payee\nor, as the case may be, to the holder in due course of the cheque, within fifteen days of the receipt of\nthe said notice."
+        },
+        {
+            "SectionNumber": "142",
+            "Title": "Cognizance of offences",
+            "Content": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), \nno court shall take cognizance of any offence punishable under section 138 \nexcept upon a complaint made in writing by the payee or the holder in due course of the cheque."
+        },
+        {
+            "SectionNumber": "147",
+            "Title": "Offences to be compoundable",
+            "Content": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), \nevery offence punishable under this Act shall be compoundable."
+        }
+    ]
+}
